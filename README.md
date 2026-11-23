@@ -3,17 +3,16 @@
 <sup>Software & Systems Engineer</sup>
 
 I design software systems through structure, modularity, and careful decomposition of complexity.
-I also read philosophy, write about what I learn, and occasionally break into systems — legally...
+I also read philosophy, write about what I learn, and occasionally break into systems — legally.
 
 ---
 
-#### Currently
+#### Lately
 
 - 🔧 &nbsp; Building full-stack systems — system design, API boundaries, modular architecture
-- 🎓 &nbsp; B.Sc. Systems Engineering — Universidad Mayor de San Simón
-- 🛡️ &nbsp; Postgraduate Diploma in Information & Technology Security
-- 🌐 &nbsp; Studying advanced English at Cambridge English Centre
-- 📖 &nbsp; Reading, writing, and thinking about software and philosophy
+- 🛡️ &nbsp; Auditing web APIs and digging into OWASP & offensive security
+- 🎓 &nbsp; B.Sc. Systems Engineering (UMSS) · Postgraduate Diploma in ICT Security
+- 📖 &nbsp; Reading dense books, writing about what sticks, and sharpening my English (Cambridge B2/C1 track)
 
 #### Tech Stack
 
