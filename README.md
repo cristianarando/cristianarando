@@ -120,18 +120,7 @@ block-beta
 
 #### On My Nightstand
 
-> *"I swear to you that to think too much is a disease, a real, actual disease."*
-> — Fyodor Dostoevsky, *Notes from Underground*
-
-I caught the disease. Here's what's keeping me up at night:
-
-| Status | Book | Author |
-|---|---|---|
-| 📖 | *Crime and Punishment* | Dostoevsky |
-| 📖 | *The Brothers Karamazov* | Dostoevsky |
-| 📖 | *The Stranger* | Camus |
-| 📖 | *The Count of Monte Cristo* | Alexandre Dumas |
-| ⏳ | *Critique of Pure Reason* | Immanuel Kant |
+I caught the disease. Books that left me staring at the ceiling for a while: *Crime and Punishment*, *The Brothers Karamazov*, *The Stranger*, *The Count of Monte Cristo*. Next up: *Critique of Pure Reason*.
 
 <sub>Full bookshelf → <a href="https://cristianarando.dev/en/blog/my-bookshelf">cristianarando.dev/blog/my-bookshelf</a></sub>
 
